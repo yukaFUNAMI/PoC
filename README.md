@@ -1,4 +1,2 @@
 # PoC
-PoC
-
-memo
+PoC類のメモ
